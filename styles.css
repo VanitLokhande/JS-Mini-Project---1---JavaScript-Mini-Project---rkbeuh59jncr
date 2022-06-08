@@ -1,1 +1,109 @@
+.heading {
+  text-align: center;
 
+  color: rgb(10, 240, 10);
+  font-style: oblique;
+  border-style: solid;
+
+  background-color: black;
+
+  width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+h4 {
+  color: green;
+}
+.footer {
+  text-align: center;
+  margin: auto;
+}
+.footer i {
+  padding: 20px;
+}
+.main {
+  margin: auto;
+  display: flex;
+  width: 90%;
+  border-style: solid;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: black;
+  border-color: rgb(2, 243, 42);
+}
+div {
+  width: 40%;
+  height: 200px;
+  border-style: solid;
+  border-color: white;
+
+  margin: 30px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+img {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}
+
+.a {
+  background-image: url("https://i.pinimg.com/474x/df/2e/36/df2e36ed4fd28d60a2eecbc276d00e64--concert-photography-music-photo.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.b {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6CNA4v6StUrh7655V2Eo4rowQqmyI2asprA&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.c {
+  background-image: url("https://images.ctfassets.net/u0haasspfa6q/4v7WJyyOV1O0BTxGcE1X6z/2c0d396e32b2fbc65d93ea684bae687a/Ishah_Shah_3");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.d {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlkO5q4Wc5Po2u8rq9dGRkZq_WMDqO7OdgGQ&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.e {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefJHBrmBzf67nz36hbM1SY5Zac75rVnRdfQ&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.f {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1IlKuzSnk4gzZnQAz9BLwBBG7by0beIIow&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.g {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS8m4lldmwDUOCy4sUuduYaZD8BE7owM8xy3XjkZpj6tkGkh9JVpsv3MmF52umrenVvs&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.h {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiahJYJXQQBS_3_7PzdQ9XkRqj97Yz1ZmNQ&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.i {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpuklQq0lARBoK67CKbsCZMmJtpNFtvRpDQ&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.j {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8AOW2mvrKWIszKnAymsgQxrfsbJRpcboP3Q&usqp=CAU");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
